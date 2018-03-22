@@ -13,8 +13,8 @@
 -----------------------------------------------------------------------------
 ### 2. Sample code
 -----------------------------------------------------------------------------
-[Java](https://github.com/zuminternet/zum-content-api-guide/tree/master/java/ContentAPI.java)  
-[Node.js](https://github.com/zuminternet/zum-content-api-guide/tree/master/nodejs/ContentAPI.js)  
-[Python](https://github.com/zuminternet/zum-content-api-guide/tree/master/python/ContentAPI.py)
+[Java](https://github.com/zuminternet/content-api-sample/blob/master/java/ContentAPI.java)  
+[Node.js](https://github.com/zuminternet/content-api-sample/blob/master/nodejs/ContentAPI.js)  
+[Python](https://github.com/zuminternet/content-api-sample/blob/master/python/ContentAPI.py)
 
 -----------------------------------------------------------------------------
